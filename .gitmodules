@@ -1,0 +1,3 @@
+[submodule "src/monolith"]
+	path = src/monolith
+	url = https://github.com/itinicore/ang-monolith.git
